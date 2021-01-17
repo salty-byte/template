@@ -5,13 +5,19 @@
 
 _Description here_
 
+**Settings**
+
+- Java 11 (or later)
+- Gradle 6.8
+- JUnit 5.7
+
 ## Demo
 
 _Demo here: images, gif animations, etc._
 
 ## Requirement
 
-- Java: openjdk-15
+- Java: 11 (openjdk-11)
 - Gradle: 6.8
 
 ## Usage
@@ -21,6 +27,9 @@ _Usage here_
 ```shell
 git clone https://github.com/salty-byte/template
 ```
+
+- Rename `rootProject.name` in settings.gradle
+- Change `group` , `version` and `sourceCompatibility` in build.gradle
 
 **Example:** start Gradle project
 
