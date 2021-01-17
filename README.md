@@ -4,6 +4,8 @@ My project templates:
 
 - [TypeScript](/typescript)
 
+- [Java-Gradle](/java)
+
 ## License
 
 [MIT](/LICENSE)
