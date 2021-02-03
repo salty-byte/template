@@ -2,11 +2,13 @@
 
 My project templates:
 
-- [TypeScript](/typescript)
-
 - [Java-Gradle](/java)
 
+- [Python](/python)
+
 - [Qiita](/qiita)
+
+- [TypeScript](/typescript)
 
 - [Unity](/unity)
 
