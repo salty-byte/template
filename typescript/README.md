@@ -11,7 +11,7 @@ _Demo here: images, gif animations, etc._
 
 ## Requirement
 
-- Nodejs: 14.x
+- Nodejs: 18.x
 
 ## Usage
 
