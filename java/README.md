@@ -8,8 +8,8 @@ _Description here_
 **Settings**
 
 - Java 11 (or later)
-- Gradle 6.8
-- JUnit 5.7
+- Gradle 8.1
+- JUnit 5.9
 
 ## Demo
 
@@ -18,7 +18,7 @@ _Demo here: images, gif animations, etc._
 ## Requirement
 
 - Java: 11 (openjdk-11)
-- Gradle: 6.8
+- Gradle: 8.1
 
 ## Usage
 

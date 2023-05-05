@@ -1,5 +1,5 @@
 public class Sample {
-  private String name;
+  private final String name;
 
   public Sample(String name) {
     this.name = name;

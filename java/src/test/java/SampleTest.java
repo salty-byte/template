@@ -2,10 +2,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-public class SampleTest {
+class SampleTest {
 
   @Test
-  public void helloTest() {
+  void helloTest() {
     Sample sample = new Sample("Mike");
     assertEquals("Hello, I am Mike.", sample.getHello());
   }
