@@ -2,6 +2,8 @@
 
 My project templates:
 
+- [gRPC-Spring-Kotlin](/grpc-spring-kotlin)
+
 - [Java-Gradle](/java)
 
 - [Python](/python)

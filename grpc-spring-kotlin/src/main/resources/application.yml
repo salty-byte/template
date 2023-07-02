@@ -1,0 +1,8 @@
+grpc:
+  port: 6565
+  enableReflection: false
+
+app:
+  auth:
+    secret: ${SERVER_SECRET}
+    issuer: io.saltybyte

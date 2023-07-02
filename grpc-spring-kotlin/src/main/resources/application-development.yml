@@ -1,0 +1,8 @@
+grpc:
+  port: 6565
+  enableReflection: true
+
+app:
+  auth:
+    secret: DUMMY_SECRET
+    issuer: io.saltybyte

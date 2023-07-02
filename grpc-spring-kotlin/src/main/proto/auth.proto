@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "io.saltybyte.proto";
+
+service AuthService {
+  rpc GenerateToken(GenerateTokenRequest) returns (GenerateTokenResponse);
+}
+
+message GenerateTokenRequest {
+  string name = 1;
+}
+
+message GenerateTokenResponse {
+  string token = 1;
+}
